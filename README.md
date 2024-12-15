@@ -1,2 +1,2 @@
 # go-api-demo
-This is a illustration of a simple api in Go
+This is an illustration of a simple api in Go
